@@ -1,0 +1,3 @@
+[submodule "client/ashtons-blog-jekyll"]
+	path = client/ashtons-blog-jekyll
+	url = https://github.com/ashellwig/ashtons-blog-jekyll.git
