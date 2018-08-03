@@ -4,3 +4,6 @@
 [submodule "client/ashtons-blog-cljs-basic"]
 	path = client/ashtons-blog-cljs-basic
 	url = https://github.com/ashellwig/ashtons-blog-cljs-basic.git
+[submodule "client/ashtons-blog-vuepress"]
+	path = client/ashtons-blog-vuepress
+	url = https://github.com/ashellwig/ashtons-blog-vuepress.git
