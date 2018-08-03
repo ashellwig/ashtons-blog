@@ -7,3 +7,6 @@
 [submodule "client/ashtons-blog-vuepress"]
 	path = client/ashtons-blog-vuepress
 	url = https://github.com/ashellwig/ashtons-blog-vuepress.git
+[submodule "server/ashtons-blog-serv-go"]
+	path = server/ashtons-blog-serv-go
+	url = https://github.com/ashellwig/ashtons-blog-serv-go.git
